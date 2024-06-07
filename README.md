@@ -1,1 +1,2 @@
 # Coca-Cola-Company
+Coca-cola is a global beverages company known for it's wide range of products. The sales analysis involves examining sales data to understand trends, performance, and opportunities. I used data analysis tools like SQL, and PowerBI to analyze the sales data effectively. Visual dashboards was also helpful in presenting sales insights in a clear and actionable manner. Analyzing the sales data helps Coca-Cola make a well-informed decisions to improve sales strategies and drive business growth.
