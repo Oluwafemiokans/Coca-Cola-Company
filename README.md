@@ -27,11 +27,11 @@ In the initial data preparation phase, we performed the following
 
 ## Business Questions
 
-1. Sum of total sales by Retailer
+1. What is the total sales by Retailer
 
-2. Sum of total sales by Brand
+2. What is the total sales by Brand
 
-3. Total sales by strategies
+3. What is the Total sales by strategies
 
 4. Sum of Units sold
 
