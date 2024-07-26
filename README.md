@@ -36,4 +36,11 @@ In the initial data preparation phase, we performed the following
 4. Sum of Units sold
 
 5. Monthly trends by sales
+   
+## Recommedations
 
+1. I recommend focus on leveraging this momentum to expand into new markets.
+
+2. Introduce innovative product lines to sustain the brand success
+
+3. Consider collaborating with influencers or implementing targeted marketing campaigns to further boost brand visibility and consumer engagement.
